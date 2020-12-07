@@ -1,0 +1,10 @@
+C:\Users\kaliv\Desktop\Project\SaveFileBackup\SaveFileBackup\bin\Debug\SaveFileBackup.exe.config
+C:\Users\kaliv\Desktop\Project\SaveFileBackup\SaveFileBackup\bin\Debug\SaveFileBackup.exe
+C:\Users\kaliv\Desktop\Project\SaveFileBackup\SaveFileBackup\bin\Debug\SaveFileBackup.pdb
+C:\Users\kaliv\Desktop\Project\SaveFileBackup\SaveFileBackup\obj\Debug\SaveFileBackup.csprojAssemblyReference.cache
+C:\Users\kaliv\Desktop\Project\SaveFileBackup\SaveFileBackup\obj\Debug\SaveFileBackup.Form1.resources
+C:\Users\kaliv\Desktop\Project\SaveFileBackup\SaveFileBackup\obj\Debug\SaveFileBackup.Properties.Resources.resources
+C:\Users\kaliv\Desktop\Project\SaveFileBackup\SaveFileBackup\obj\Debug\SaveFileBackup.csproj.GenerateResource.cache
+C:\Users\kaliv\Desktop\Project\SaveFileBackup\SaveFileBackup\obj\Debug\SaveFileBackup.csproj.CoreCompileInputs.cache
+C:\Users\kaliv\Desktop\Project\SaveFileBackup\SaveFileBackup\obj\Debug\SaveFileBackup.exe
+C:\Users\kaliv\Desktop\Project\SaveFileBackup\SaveFileBackup\obj\Debug\SaveFileBackup.pdb
